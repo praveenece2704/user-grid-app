@@ -1,0 +1,14 @@
+user\grid\model\Address.class
+user\grid\service\UserService.class
+user\grid\model\UserResponse.class
+user\grid\service\impl\UserServiceImpl.class
+user\grid\model\Coordinates.class
+user\grid\model\Crypto.class
+user\grid\model\UserData.class
+user\grid\App.class
+user\grid\UserGridAppApplication.class
+user\grid\repo\UserRepository.class
+user\grid\controller\UserController.class
+user\grid\model\Hair.class
+user\grid\model\Company.class
+user\grid\model\Bank.class
