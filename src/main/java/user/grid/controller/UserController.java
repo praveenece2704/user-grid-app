@@ -19,7 +19,7 @@ import user.grid.model.UserData;
 import user.grid.service.UserService;
 
 @RestController
-@CrossOrigin(origins = "${cors.allowed.origin:'http://localhost:4200'}")
+@CrossOrigin(origins = "${cors.allowed.origin}")
 @RequestMapping("/api/users")
 @Slf4j
 public class UserController {

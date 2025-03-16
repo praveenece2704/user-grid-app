@@ -18,7 +18,7 @@ import user.grid.repo.UserRepository;
 public class UserConfig {
 	
 	
-	@Value("${user.api.url:'https://dummyjson.com/users'}")
+	@Value("${user.api.url}")
     private String url;
 	
 	@Autowired
